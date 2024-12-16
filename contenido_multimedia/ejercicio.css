@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+header > h1 {
+    background-color: lightgoldenrodyellow;
+    margin: 0%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+header > p {
+    margin: 30px;
+}
+
+h2 {
+    text-shadow: 2px 2px 2px lightyellow;
+}
+
+section {
+    background-color: lemonchiffon;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+}
+
+div {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0%;
+    margin-bottom: 50px;
+    padding: 10px;
+    border: 5px solid lightcoral;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+
+embed {
+    margin: 30px;
+}
+
+#video {
+    border: 10px solid lightcoral;
+    border-radius: 15px;
+}
